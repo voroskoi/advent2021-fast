@@ -4,3 +4,5 @@ CMakeFiles
 Makefile
 advent2021
 *.sw?
+**/zig-cache
+zig-out
